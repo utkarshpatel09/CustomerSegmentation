@@ -33,3 +33,16 @@ Synthetic retail transaction dataset containing:
 Cluster plots and feature distributions are available under the `/results` folder for easy interpretation.
 
 ## 📂 Project Structure
+
+## 🔧 Installation & Usage
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/utkarshpatel09/CustomerSegmentation-KMeans.git
+   cd CustomerSegmentation-KMeans
+2. Installing Dependencies
+   pip install -r requirements.txt
+   
+3. Run the segmentation script
+   python scripts/CustomerSegmentation.py
+
